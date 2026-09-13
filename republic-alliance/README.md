@@ -85,8 +85,7 @@ To govern each deployed tactical unit, higher command shall assign a Tri-Vector 
 
   + Upon completion of each combat deployment, two new officers will be dispatched to replace the two Oversight Commissioners.<br/>
 
-  + All three officers must submit an evaluation of the initial Squad Commander. Each rating shall be recorded strictly as Positive, Negative, or Withheld.<br/>
-
+  + Three officials must evaluate the two officials other than themselves. Each evaluation result must be positive, negative, or withheld.<br/>
 
 ## 8. Military Rotation
 
